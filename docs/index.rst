@@ -15,10 +15,10 @@ Best of all, pyst2 is actively maintained, and has continuously improving code,
 tests, and documentation.
 
 .. note::
-    pyst2's documentation is currently being written. If you'd like to
-    contribute documentation to help speed things up, please `fork the project
-    on github <https://github.com/rdegges/pyst2>`_.
+	pyst2's documentation is currently being written. If you'd like to
+	contribute documentation to help speed things up, please `fork the project
+	on github <https://github.com/rdegges/pyst2>`_.
 
 
 .. toctree::
-   :maxdepth: 2
+	:maxdepth: 2
