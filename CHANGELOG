@@ -1,4 +1,4 @@
-2011-05-31	Randall Degges <rdegges@gmail.com
+2011-05-31	Randall Degges <rdegges@gmail.com>
 	* BUGFIX: Fixing issue that prevented manager.status command from returning
 	  proper output.
 
