@@ -1,5 +1,5 @@
-Welcome to pyst2's documentation!
-=================================
+pyst2
+=====
 
 Contents:
 
