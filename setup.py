@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 from distutils.core import setup
 
 from asterisk import __version__ as version
